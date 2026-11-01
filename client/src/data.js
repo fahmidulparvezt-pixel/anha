@@ -4,7 +4,7 @@ export const profile = {
   name: 'Anha Anzum Kona',
   shortName: 'Anha Anzum',
   initials: 'AK',
-  roles: ['Aspiring Educator', 'Community Leader', 'Peace Advocate'],
+  roles: ['Aspiring Researcher', 'Community Leader', 'Peace Advocate'],
   phone: '01637130352',
   email: 'anzumaris29@gmail.com',
   address: 'College Para, Brahmanbaria',
