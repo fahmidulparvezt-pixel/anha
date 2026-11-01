@@ -12,9 +12,15 @@ export const profile = {
   tagline:
     'Dedicated and enthusiastic aspiring educator committed to fostering a supportive, engaging learning environment that ignites student curiosity.',
   about: [
-    'I am a dedicated and enthusiastic aspiring educator committed to fostering a supportive, engaging learning environment that ignites student curiosity.',
-    'I am passionate about empowering young learners to reach their full potential through creative, student-centered teaching. Since 2020 I have been tutoring students across multiple subjects, and I also coach students at a local centre, focusing on academic performance and exam preparation.',
-    'Beyond the classroom, I serve as Joint Secretary of the Brahmanbaria Government College Debating Society and volunteer in my community.',
+    'Hello! This is 𝐀𝐧𝐡𝐚 𝐀𝐧𝐳𝐮𝐦 𝐊𝐨𝐧𝐚, a Zoology undergraduate with a keen interest in biological research and the integration of computational methods into modern life sciences. ',
+    '𝐂𝐚𝐫𝐞𝐞𝐫 𝐆𝐨𝐚𝐥: Seeking a Research Assistant position to gain research experience and contribute to meaningful scientific projects.   ',
+    '𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬: ',
+    ' - 𝐁𝐢𝐨𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬: Genomic data analysis and computational modeling. ',
+    '- 𝐁𝐢𝐨𝐜𝐡𝐞𝐦𝐢𝐬𝐭𝐫𝐲: Molecular pathways and biological mechanisms. ',
+    ' - 𝐁𝐢𝐨𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲: Applied biological research and innovation. ',
+    '𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩: Serving as Joint Secretary at Brahmanbaria Govt College Debating Society (BGCDS), developing skills in communication, critical thinking, and event management.  I look forward to connecting with researchers, academics, and peers passionate about biological and interdisciplinary research.',
+    
+  
   ],
 }
 
@@ -109,6 +115,10 @@ export const digitalSkills = [
 export const languages = [
   { name: 'Bangla', level: 'Native', value: 100 },
   { name: 'English', level: 'Advanced', value: 85 },
+  { name: 'Urdu', level: 'Conversational', value: 50},
+  { name: 'Spanish', level: 'Conversational', value: 20},
+  { name: 'Sign(ASL)', level: 'Conversational', value: 20},
+  { name: 'korean', level: 'Conversational', value: 70},
 ]
 
 export const certificates = [
