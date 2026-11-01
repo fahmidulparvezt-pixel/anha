@@ -10,7 +10,7 @@ export const profile = {
   address: 'College Para, Brahmanbaria',
   photo: '/profile.jpg', // put your photo at client/public/profile.jpg
   tagline:
-    'Dedicated and enthusiastic aspiring educator committed to fostering a supportive, engaging learning environment that ignites student curiosity.',
+    'Enthusiastic educator and aspiring researcher dedicated to bridging interactive learning with computational biology, striving to inspire curiosity and create a lasting global impact.',
   about: [
     'Hello! This is 𝐀𝐧𝐡𝐚 𝐀𝐧𝐳𝐮𝐦 𝐊𝐨𝐧𝐚, a Zoology undergraduate with a keen interest in biological research and the integration of computational methods into modern life sciences. ',
     '𝐂𝐚𝐫𝐞𝐞𝐫 𝐆𝐨𝐚𝐥: Seeking a Research Assistant position to gain research experience and contribute to meaningful scientific projects.   ',
