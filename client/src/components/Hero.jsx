@@ -42,7 +42,7 @@ export default function Hero() {
       <div className="mx-auto grid w-full max-w-7xl items-center gap-14 px-4 sm:px-6 lg:grid-cols-[1.2fr_1fr]">
         <div className="order-2 text-center lg:order-1 lg:text-left">
           <span className="badge badge-outline badge-primary mb-5 gap-2 py-3">
-            <span className="h-2 w-2 animate-pulse rounded-full bg-success" /> Open to teaching opportunities
+            <span className="h-2 w-2 animate-pulse rounded-full bg-success" /> Open to research opportunities
           </span>
           <h1 className="font-display text-4xl font-extrabold leading-tight sm:text-5xl xl:text-6xl">
             Hi, I&apos;m <span className="text-gradient">{profile.name}</span>
