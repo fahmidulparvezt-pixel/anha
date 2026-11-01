@@ -16,7 +16,7 @@ function Avatar() {
           <img
             src={profile.photo}
             alt={`Portrait of ${profile.name}`}
-            className="h-full w-full object-cover"
+            className="h-full w-full object-cover object-[30%_center]"
             onError={() => setFailed(true)}
           />
         )}
